@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\Demodll\bin\Release\net8.0\Demodll.deps.json
+C:\Users\Administrator\source\repos\Demodll\bin\Release\net8.0\Demodll.dll
+C:\Users\Administrator\source\repos\Demodll\bin\Release\net8.0\Demodll.pdb
+C:\Users\Administrator\source\repos\Demodll\obj\Release\net8.0\Demodll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Demodll\obj\Release\net8.0\Demodll.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Demodll\obj\Release\net8.0\Demodll.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Demodll\obj\Release\net8.0\Demodll.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Demodll\obj\Release\net8.0\Demodll.dll
+C:\Users\Administrator\source\repos\Demodll\obj\Release\net8.0\refint\Demodll.dll
+C:\Users\Administrator\source\repos\Demodll\obj\Release\net8.0\Demodll.pdb
+C:\Users\Administrator\source\repos\Demodll\obj\Release\net8.0\ref\Demodll.dll

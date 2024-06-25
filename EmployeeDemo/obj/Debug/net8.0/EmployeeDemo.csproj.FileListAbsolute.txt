@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\EmployeeDemo\bin\Debug\net8.0\EmployeeDemo.deps.json
+C:\Users\Administrator\source\repos\EmployeeDemo\bin\Debug\net8.0\EmployeeDemo.dll
+C:\Users\Administrator\source\repos\EmployeeDemo\bin\Debug\net8.0\EmployeeDemo.pdb
+C:\Users\Administrator\source\repos\EmployeeDemo\obj\Debug\net8.0\EmployeeDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\EmployeeDemo\obj\Debug\net8.0\EmployeeDemo.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\EmployeeDemo\obj\Debug\net8.0\EmployeeDemo.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\EmployeeDemo\obj\Debug\net8.0\EmployeeDemo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\EmployeeDemo\obj\Debug\net8.0\EmployeeDemo.dll
+C:\Users\Administrator\source\repos\EmployeeDemo\obj\Debug\net8.0\refint\EmployeeDemo.dll
+C:\Users\Administrator\source\repos\EmployeeDemo\obj\Debug\net8.0\EmployeeDemo.pdb
+C:\Users\Administrator\source\repos\EmployeeDemo\obj\Debug\net8.0\ref\EmployeeDemo.dll

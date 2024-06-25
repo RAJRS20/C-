@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\DemoFile\bin\Release\DemoFile.exe.config
+C:\Users\Administrator\source\repos\DemoFile\bin\Release\DemoFile.exe
+C:\Users\Administrator\source\repos\DemoFile\bin\Release\DemoFile.pdb
+C:\Users\Administrator\source\repos\DemoFile\obj\Release\DemoFile.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\DemoFile\obj\Release\DemoFile.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\DemoFile\obj\Release\DemoFile.exe
+C:\Users\Administrator\source\repos\DemoFile\obj\Release\DemoFile.pdb
+C:\Users\Administrator\source\repos\DemoFile\bin\Release\DemoFile.exe.manifest
+C:\Users\Administrator\source\repos\DemoFile\bin\Release\DemoFile.application
+C:\Users\Administrator\source\repos\DemoFile\obj\Release\DemoFile.TrustInfo.xml
+C:\Users\Administrator\source\repos\DemoFile\obj\Release\DemoFile.exe.manifest
+C:\Users\Administrator\source\repos\DemoFile\obj\Release\DemoFile.application
